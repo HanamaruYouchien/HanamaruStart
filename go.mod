@@ -1,4 +1,4 @@
-module github.com/chrede88/L1nkrTemplate
+module github.com/HanamaruYouchien/HanamaruStart
 
 go 1.25.5
 
